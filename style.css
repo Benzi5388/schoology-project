@@ -1,0 +1,12 @@
+
+.breadcrumb-item{
+    font-size:12px;
+    font-weight: bold;
+    padding-top: 20px;
+    text-decoration: none;
+}
+.nav-link{
+    margin-right: 20px;
+    color:#00427c;
+}
+
